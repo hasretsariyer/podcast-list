@@ -24,3 +24,7 @@
   
 ## Burak Bayram ##
   * [Ilk olarak kendiniz icin basarinin tanimini yapin](https://www.youtube.com/watch?v=fN2EL5wIEWM)
+  
+ ## Serdar Kuzuloglu ##
+  * [Limonata bardagindaki basari sirri](https://www.youtube.com/watch?v=KiBAN99KjwM)
+  * [Cok calisiyoruz, ama bos calisiyoruz](https://youtu.be/h5KDWYZXYAM)
