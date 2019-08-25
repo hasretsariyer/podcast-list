@@ -23,3 +23,6 @@ Codefiction:
   
 Bilgem Cakir:
   [Kariyerde kisisel marka](http://yalinkod.com/2017/12/01/ykp-033-kariyerde-kisisel-marka/)
+  
+Burak Bayram:
+  [Ilk olarak kendiniz icin basarinin tanimini yapin](https://www.youtube.com/watch?v=fN2EL5wIEWM)
