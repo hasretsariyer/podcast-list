@@ -6,3 +6,5 @@ Lemi Orhan Ergin:
 Kodcast:
   [Silikon vadisinde muhendisler nasil is degistiriyorlar?](https://kodcast.simplecast.com/episodes/silikon-vadisinde-muhendisler-nasl-i-deitiriyorlar)
   
+Arman&Koray Yollarda TV:
+  [Parasut, Iyzico ve Foriba exit ediyor](https://www.youtube.com/watch?v=h1zKDJYe_UM)
