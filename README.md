@@ -28,3 +28,6 @@
  ## Serdar Kuzuloglu ##
   * [Limonata bardagindaki basari sirri](https://www.youtube.com/watch?v=KiBAN99KjwM)
   * [Cok calisiyoruz, ama bos calisiyoruz](https://youtu.be/h5KDWYZXYAM)
+  
+ ## Leyla Alaton ##
+  * [Kadinlar kaderine teslim olmamali](https://www.youtube.com/watch?v=WO7K_nd-nD0) 
