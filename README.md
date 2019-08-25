@@ -20,3 +20,6 @@ Codefiction:
   
 Codefiction:
   [Sessiz yazilimci](https://codefiction.tech/episodes/sezon-2-kirkinci-bolum-sessiz-yazilimci)
+  
+Bilgem Cakir:
+  [Kariyerde kisisel marka](http://yalinkod.com/2017/12/01/ykp-033-kariyerde-kisisel-marka/)
