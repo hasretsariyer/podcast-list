@@ -14,6 +14,9 @@ Arman&Koray Yollarda TV:
 
 Kadir Koymen:
   [Arkadasin var kaybin var](https://www.youtube.com/watch?v=J4NgNLQOUm4)
+
+Kadir Koymen:
+  [Cozumlerinizi sirketinize hediye etmeyin](https://www.youtube.com/watch?v=PdYCOFLpLvs)
   
 Codefiction:
   [Firmani nasil degistirebilirsin](https://www.youtube.com/watch?v=uDUq1Z6fnV4)
