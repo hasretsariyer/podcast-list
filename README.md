@@ -31,3 +31,6 @@
   
  ## Leyla Alaton ##
   * [Kadinlar kaderine teslim olmamali](https://www.youtube.com/watch?v=WO7K_nd-nD0) 
+  
+ ## Selman Kahya ##
+  * [Ufuk Sengul - Microsoft, Kisisel Tecrube](https://youtu.be/eryauOpImHQ)
