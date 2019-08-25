@@ -20,6 +20,7 @@
   
 ## Bilgem Cakir ##
   * [Kariyerde kisisel marka](http://yalinkod.com/2017/12/01/ykp-033-kariyerde-kisisel-marka/)
+  * [Girisimci adaylarina tavsiyeler - Sarp Sekeroglu](https://www.youtube.com/watch?v=OQsIPH1szQ0)
   
 ## Burak Bayram ##
   * [Ilk olarak kendiniz icin basarinin tanimini yapin](https://www.youtube.com/watch?v=fN2EL5wIEWM)
