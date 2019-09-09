@@ -20,6 +20,7 @@
   * [Firmani nasil degistirebilirsin](https://www.youtube.com/watch?v=uDUq1Z6fnV4)
   * [Sessiz yazilimci](https://codefiction.tech/episodes/sezon-2-kirkinci-bolum-sessiz-yazilimci)
   * [Is ve hayat dengesini ayarlayabilmek](https://codefiction.tech/episodes/generic-mahmut-abiye-sor-i-ve-hayat-dengesini-ayarlayabilmek-ile-ikna-olmayan-yonetici)
+  * [Chris Stephenson - Yazilim, universite egitimi, Nesin Matematik Koyu](https://codefiction.tech/episodes/p2p-chris-stephenson) 
   
 ## Bilgem Cakir ##
   * [Kariyerde kisisel marka](http://yalinkod.com/2017/12/01/ykp-033-kariyerde-kisisel-marka/)
