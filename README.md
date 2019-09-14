@@ -15,6 +15,7 @@
   * [Cozumlerinizi sirketinize hediye etmeyin](https://www.youtube.com/watch?v=PdYCOFLpLvs)
   * [Siradaki zafer](https://youtu.be/ma0gtwu8NUk)
   * [Pasif gelir cikmazi](https://youtu.be/rmyBCiA1vM8)
+  * [Geliştiricilere Açık Mektup] (https://youtu.be/8ngfwJmOPro)
   
 ## Codefiction ##
   * [Firmani nasil degistirebilirsin](https://www.youtube.com/watch?v=uDUq1Z6fnV4)
