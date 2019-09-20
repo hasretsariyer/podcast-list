@@ -1,5 +1,9 @@
 # podcast-list
 
+
+## Parasutle Uretim Bandi ##
+  * [Insider nasil urun gelistiriyor](https://uretimbandi.com/bolumler/2018/4/26/insider-nasil-urun-gelistiriyor)
+
 ## Lemi Orhan Ergin ##
   * [Kendimizi gelistirebilecegimiz bir is yeri var midir?](https://soundcloud.com/leminin-not-defteri/11-kendimizi-gelistirebilecegimiz-bir-is-yeri-var-mi)
   
