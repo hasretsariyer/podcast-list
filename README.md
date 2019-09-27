@@ -1,6 +1,8 @@
 # podcast-list
 
-
+## Cay, Kahve ve Insan ##
+  * [Bora Kasmer - Yazilim hikayesi](https://youtu.be/rBLnQHu6vCY)
+  
 ## Parasutle Uretim Bandi ##
   * [Insider nasil urun gelistiriyor](https://uretimbandi.com/bolumler/2018/4/26/insider-nasil-urun-gelistiriyor)
 
