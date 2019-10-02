@@ -45,3 +45,6 @@
   
  ## Selman Kahya ##
   * [Ufuk Sengul - Microsoft, Kisisel Tecrube](https://youtu.be/eryauOpImHQ)
+  
+ ## Levent Sapci ##
+  * [Silikon vadisinde trajik olay](https://youtu.be/MM7-rWfGz_g)
