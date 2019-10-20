@@ -22,6 +22,7 @@
   * [Siradaki zafer](https://youtu.be/ma0gtwu8NUk)
   * [Pasif gelir cikmazi](https://youtu.be/rmyBCiA1vM8)
   * [Gelistiricilere Acık Mektup](https://youtu.be/8ngfwJmOPro)
+  * [Insanin kendini gelistirmesi neden tabiatina aykiridir?](https://youtu.be/rU0tqEGbqyU)
   
 ## Codefiction ##
   * [Firmani nasil degistirebilirsin](https://www.youtube.com/watch?v=uDUq1Z6fnV4)
