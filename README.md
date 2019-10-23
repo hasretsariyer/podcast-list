@@ -3,6 +3,9 @@
 ## Cay, Kahve ve Insan ##
   * [Bora Kasmer - Yazilim hikayesi](https://youtu.be/rBLnQHu6vCY)
   
+## Nilay Ornek - Nasil Olunur ##
+  * [Nevzat Aydin](https://open.spotify.com/episode/76vTOWQQv6oVy6odxL6eqg)
+  
 ## Parasutle Uretim Bandi ##
   * [Insider nasil urun gelistiriyor](https://uretimbandi.com/bolumler/2018/4/26/insider-nasil-urun-gelistiriyor)
 
