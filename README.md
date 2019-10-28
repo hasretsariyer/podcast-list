@@ -49,6 +49,7 @@
   
  ## Selman Kahya ##
   * [Ufuk Sengul - Microsoft, Kisisel Tecrube](https://youtu.be/eryauOpImHQ)
+  * [Kaan Tariman - Google calisani](https://youtu.be/IUXpn3IK4z4)
   
  ## Levent Sapci ##
   * [Silikon vadisinde trajik olay](https://youtu.be/MM7-rWfGz_g)
