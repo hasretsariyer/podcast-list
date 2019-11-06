@@ -3,6 +3,9 @@
 ## Cay, Kahve ve Insan ##
   * [Bora Kasmer - Yazilim hikayesi](https://youtu.be/rBLnQHu6vCY)
   
+## Kolay Degil ##
+  * [20 yasina donsem neyi duzeltirdim?](https://youtu.be/5-U6miGTtFQ)
+  
 ## Nilay Ornek - Nasil Olunur ##
   * [Nevzat Aydin](https://open.spotify.com/episode/76vTOWQQv6oVy6odxL6eqg)
   
