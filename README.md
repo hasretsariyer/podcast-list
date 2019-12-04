@@ -1,5 +1,8 @@
 # podcast-list
 
+## Software Craftsmanship Turkey ##
+  * [Ustun Ozgur - Yazılım Sektöründe Korku, Kaygı ve Özgüven](https://youtu.be/mP0GXkSpVsA)
+
 ## Cay, Kahve ve Insan ##
   * [Bora Kasmer - Yazilim hikayesi](https://youtu.be/rBLnQHu6vCY)
   
