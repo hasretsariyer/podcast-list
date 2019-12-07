@@ -1,5 +1,8 @@
 # podcast-list
 
+## Mucadele Podcast ##
+  * [Konusurken net olun](https://open.spotify.com/episode/6bjeFIT7RaLI44CdWE4fh7)
+
 ## Software Craftsmanship Turkey ##
   * [Ustun Ozgur - Yazılım Sektöründe Korku, Kaygı ve Özgüven](https://youtu.be/mP0GXkSpVsA)
 
