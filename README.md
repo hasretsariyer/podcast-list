@@ -21,6 +21,7 @@
   * [Insider nasil urun gelistiriyor](https://uretimbandi.com/bolumler/2018/4/26/insider-nasil-urun-gelistiriyor)
 
 ## Lemi Orhan Ergin ##
+  * [Kod incelemede 10 kusurlu hareket](https://lnns.co/Px7rOTkmul-)
   * [Kendimizi gelistirebilecegimiz bir is yeri var midir?](https://soundcloud.com/leminin-not-defteri/11-kendimizi-gelistirebilecegimiz-bir-is-yeri-var-mi)
   
 ## Kodcast ##
