@@ -10,6 +10,7 @@
 
 ## Cay, Kahve ve Insan ##
   * [Bora Kasmer - Yazilim hikayesi](https://youtu.be/rBLnQHu6vCY)
+  * [Nayn.Co: Yeni nesil haber sitesi](https://www.youtube.com/watch?v=n3AHTJpD9I8)
   
 ## Kolay Degil ##
   * [20 yasina donsem neyi duzeltirdim?](https://youtu.be/5-U6miGTtFQ)
