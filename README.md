@@ -14,6 +14,7 @@
   
 ## Kolay Degil ##
   * [20 yasina donsem neyi duzeltirdim?](https://youtu.be/5-U6miGTtFQ)
+  * [En kotu calisan profili](https://www.youtube.com/watch?v=X1mon06LlpA)
   
 ## Nilay Ornek - Nasil Olunur ##
   * [Nevzat Aydin](https://open.spotify.com/episode/76vTOWQQv6oVy6odxL6eqg)
