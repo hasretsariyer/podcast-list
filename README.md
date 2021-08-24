@@ -70,3 +70,6 @@
  ## Levent Sapci ##
   * [Silikon vadisinde trajik olay](https://youtu.be/MM7-rWfGz_g)
   * [Olmazsa Olmaz Yetenek: İnsan Etkileyebilme](https://www.youtube.com/watch?v=OIh16XenFtg)
+
+## Olumlu Dunya ##
+  * [Kaygi Batakligi](https://podtail.com/podcast/olumlu-dunya/20-kayg-batakl/)
